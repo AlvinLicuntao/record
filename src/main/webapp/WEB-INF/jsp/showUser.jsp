@@ -7,6 +7,6 @@
 <title>My User Detail Page</title>
 </head>
 <body>
-   ${user.userName}
+   ${user.name}
 </body>
 </html>
